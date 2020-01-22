@@ -4574,11 +4574,12 @@
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
-                  <monogr xml:lang="ar">
-                     <title level="j" xml:lang="ar">اللواء</title>
-                     <textLang mainLang="ar"/>
-                     <imprint/>
-                  </monogr>
+                  <monogr xml:lang="ar"> <title level="j" xml:lang="ar">اللواء</title> <ref
+                     target="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_23.TEIP5.xml#p_9133.d2e65691"/> <ref
+                     target="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_23.TEIP5.xml#p_9138.d2e65721"/> <textLang mainLang="ar"
+                     /> ُ<editor><persName>ابو الطيب</persName></editor> <imprint>
+                     <pubPlace><placeName>Cairo</placeName></pubPlace>
+                     </imprint> </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
@@ -4820,7 +4821,7 @@
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
-                     <ref target="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_4023.d2e33479"></ref>
+                     <ref target="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_4023.d2e33479"/>
                      <title level="j" xml:lang="ar">المقطم</title>
                      <textLang mainLang="ar"/>
                      <editor><persName>فارس نمر</persName></editor>
@@ -4828,7 +4829,7 @@
                      <editor><persName>شاهين مكاريوس</persName></editor>
                      <imprint>
                         <pubPlace><placeName>Cairo</placeName> </pubPlace>
-                        <date from="1889-02-14" to="1952"></date>
+                        <date from="1889-02-14" to="1952"/>
                      </imprint>
                   </monogr>
                </biblStruct>
@@ -5012,16 +5013,19 @@
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">الوقائع المصرية</title>
-                     <ref target="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_775.d2e5787"></ref>
-                     <ref target="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_2236.d2e17318"></ref>
-                     <ref target="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_2.TEIP5.xml#p_5518.d2e49572"></ref>
+                     <ref target="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_775.d2e5787"/>
+                     <ref target="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_2236.d2e17318"/>
+                     <ref target="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_2.TEIP5.xml#p_5518.d2e49572"/>
                      <ref>Tarrazi:4:162</ref>
                      <editor><persName>رفاعة الطهطاوي</persName></editor>
                      <editor><persName>سعادة</persName></editor>
                      <editor><persName>العطار</persName></editor>
                      <editor><persName>محمد علي باشا</persName></editor>
                      <textLang mainLang="ar"/>
-                     <imprint><pubPlace><placeName>Cairo</placeName></pubPlace><date from="1828-12-03"></date></imprint>
+                     <imprint>
+                        <pubPlace><placeName>Cairo</placeName></pubPlace>
+                        <date from="1828-12-03"/>
+                     </imprint>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
