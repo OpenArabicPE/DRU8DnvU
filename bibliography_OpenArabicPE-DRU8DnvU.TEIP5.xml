@@ -4820,6 +4820,7 @@
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
+                     <ref target="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_4023.d2e33479"/>
                      <title level="j" xml:lang="ar">المقطم</title>
                      <textLang mainLang="ar"/>
                      <editor><persName>فارس نمر</persName></editor>
