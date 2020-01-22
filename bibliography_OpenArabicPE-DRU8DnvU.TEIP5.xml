@@ -875,6 +875,11 @@
                   <analytic xml:lang="">
                      <title level="m" xml:lang="">أساس الحكمة</title>
                   </analytic>
+                  <monogr>
+                     <imprint>
+                        <date>1884-02-02</date>
+                     </imprint>
+                  </monogr>
                </biblStruct>
                <biblStruct xml:lang="" xmlns:zot="https://zotero.org" zot:genre="book">
                   <analytic xml:lang="">
@@ -971,7 +976,7 @@
                      <author xml:lang=""> <persName xml:lang=""> <surname xml:lang="">القاضي محمد بن علي بن محمد الشوكاني</surname> </persName> </author>
                   </analytic>
                </biblStruct>
-               <biblStruct xml:lang="" xmlns:zot="https://zotero.org" zot:genre="book">
+               <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="book">
                   <analytic xml:lang="">
                      <title level="m" xml:lang="">إرشاد القاصد</title>
                   </analytic>
@@ -4817,7 +4822,13 @@
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">المقطم</title>
                      <textLang mainLang="ar"/>
-                     <imprint/>
+                     <editor><persName>فارس نمر</persName></editor>
+                     <editor><persName>يعقوب صروف</persName></editor>
+                     <editor><persName>شاهين مكاريوس</persName></editor>
+                     <imprint>
+                        <pubPlace><placeName>Cairo</placeName> </pubPlace>
+                        <date from="1889-02-14" to="1952"/>
+                     </imprint>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
