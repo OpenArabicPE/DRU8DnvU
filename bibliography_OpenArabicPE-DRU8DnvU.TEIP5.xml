@@ -4820,7 +4820,7 @@
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
-                     <ref target="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_4023.d2e33479"/>
+                     <ref target="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_4023.d2e33479"></ref>
                      <title level="j" xml:lang="ar">المقطم</title>
                      <textLang mainLang="ar"/>
                      <editor><persName>فارس نمر</persName></editor>
@@ -4828,7 +4828,7 @@
                      <editor><persName>شاهين مكاريوس</persName></editor>
                      <imprint>
                         <pubPlace><placeName>Cairo</placeName> </pubPlace>
-                        <date from="1889-02-14" to="1952"/>
+                        <date from="1889-02-14" to="1952"></date>
                      </imprint>
                   </monogr>
                </biblStruct>
@@ -5012,8 +5012,16 @@
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">الوقائع المصرية</title>
+                     <ref target="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_775.d2e5787"></ref>
+                     <ref target="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_2236.d2e17318"></ref>
+                     <ref target="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_2.TEIP5.xml#p_5518.d2e49572"></ref>
+                     <ref>Tarrazi:4:162</ref>
+                     <editor><persName>رفاعة الطهطاوي</persName></editor>
+                     <editor><persName>سعادة</persName></editor>
+                     <editor><persName>العطار</persName></editor>
+                     <editor><persName>محمد علي باشا</persName></editor>
                      <textLang mainLang="ar"/>
-                     <imprint/>
+                     <imprint><pubPlace><placeName>Cairo</placeName></pubPlace><date from="1828-12-03"></date></imprint>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
