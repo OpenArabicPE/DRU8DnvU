@@ -705,7 +705,7 @@
                      <editor xml:lang="ar"> <persName xml:lang="ar"> <surname xml:lang="ar">تقلا</surname> <forename xml:lang="ar">بشارة</forename> </persName> </editor>
                      <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_6.TEIP5.xml#p_4597.d2e28319"> <persName xml:lang="ar">نجيب الحداد</persName></editor>
                      <textLang mainLang="ar"/>
-                     <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_7.TEIP5.xml#p_5149.d2e32656"> <persName xml:lang="ar">داغر اسعد </persName> </editor>
+                     <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_7.TEIP5.xml#p_5149.d2e32656"> <persName xml:lang="ar">داغر اسعد</persName> </editor>
                      <imprint>
                         <pubPlace><placeName xml:lang="en">Alexandria</placeName></pubPlace>
                         <date calendar="#cal_gregorian" from="1876-08-05" to="1898">1876</date>
