@@ -446,11 +446,14 @@
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">الحقوق</title>
+                     <ref target="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_17.TEIP5.xml#p_7529.d2e52323"/>
+                     <ref>Tarrazi:4:124</ref>
+                     <editor><persName>ميخائيل بن جرجس</persName></editor>
                      <title level="j" xml:lang="ar">مجلة حقوقية</title>
                      <editor xml:lang="ar"> <persName xml:lang="ar"> <surname xml:lang="ar">سليم بك المعوشي</surname> </persName> </editor>
                      <editor xml:lang="ar"> <persName xml:lang="ar"> <surname xml:lang="ar">ملحم بك خلف</surname> </persName> </editor>
                      <textLang mainLang="ar"/>
-                     <imprint/>
+                     <imprint><date from="1910-02-18"></date><pubPlace><placeName>Jisr Nahr Beirut</placeName></pubPlace></imprint>
                      <biblScope from="1" to="1" unit="volume"/>
                      <biblScope from="1" to="1" unit="issue"/>
                      <biblScope from="1" to="32" unit="page"/>
@@ -3839,8 +3842,15 @@
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">البشير</title>
+                     <ref target="BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_5.TEIP5.xml#p_4399.d2e27065"/>
+                     <ref>Tarrazi:4:4</ref>
+                     <editor><persName>انطون افندي</persName></editor>
+                     <editor><persName>الاباء اليسوعيون</persName></editor>
                      <textLang mainLang="ar"/>
-                     <imprint/>
+                     <imprint>
+                        <pubPlace><placeName>Beirut</placeName></pubPlace>
+                        <date from="1870-09-03"/>
+                     </imprint>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
@@ -3937,8 +3947,13 @@
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">الجريدة</title>
+                     <ref>Tarrazi:4:22</ref>
                      <textLang mainLang="ar"/>
-                     <imprint/>
+                     <editor><persName>حسني مصباح فتحله</persName></editor>
+                     <imprint>
+                        <date from="1928-10-01"/>
+                        <pubPlace><placeName>Beirut</placeName></pubPlace>
+                     </imprint>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
@@ -3958,8 +3973,13 @@
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">الجوائب</title>
+                     <ref target="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_12.TEIP5.xml#"/>
                      <textLang mainLang="ar"/>
-                     <imprint/>
+                     <editor><persName>احمد فارس</persName></editor>
+                     <imprint>
+                        <pubPlace><placeName>Istanbul</placeName><placeName when="1883">Cairo</placeName></pubPlace>
+                        <date from="1861" to="1884"/>
+                     </imprint>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
@@ -4618,7 +4638,8 @@
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
-                     <title level="j" xml:lang="ar">المبشر</title>
+                     <title level="j" xml:lang="ar">المبشر</title><ref target="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_6.TEIP5.xml#p_4772.d2e29693"></ref>
+                     <editor><persName>محمد بن شيخ ابو القاسم</persName></editor>
                      <textLang mainLang="ar"/>
                      <imprint/>
                   </monogr>
@@ -4703,8 +4724,14 @@
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">المحروسة</title>
+                     <ref target="BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_24.TEIP5.xml#p_9582.d2e69824"/>
+                     <ref>Tarrazi:4:216</ref>
                      <textLang mainLang="ar"/>
-                     <imprint/>
+                     <editor><persName>سليم نقاش</persName></editor>
+                     <imprint>
+                        <date from="1880"/>
+                        <pubPlace><placeName>Alexandria</placeName></pubPlace>
+                     </imprint>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
@@ -4730,7 +4757,8 @@
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
-                     <title level="j" xml:lang="ar">المراقب</title>
+                     <title level="j" xml:lang="ar">المراقب</title><ref target="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_2.TEIP5.xml#p_3064.d2e25525"></ref>
+                     <editor><date>1908-1913</date><persName>جرجي بن شاهين عطية</persName></editor>
                      <textLang mainLang="ar"/>
                      <imprint/>
                   </monogr>
@@ -6703,10 +6731,15 @@
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">المباحث</title>
+                     <ref target="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_27.TEIP5.xml#p_10056.d2e72892"/>
+                     <ref>Tarrazi:4:118</ref>
                      <editor xml:lang="ar"> <persName xml:lang="ar"> <surname xml:lang="ar">يني</surname> <forename xml:lang="ar">جرجي</forename> </persName> </editor>
                      <editor xml:lang="ar"> <persName xml:lang="ar"> <surname xml:lang="ar">صموئيل أفندي يني</surname> </persName> </editor>
                      <textLang mainLang="ar"/>
-                     <imprint/>
+                     <imprint>
+                        <date from="1908-11-16"/>
+                        <pubPlace><placeName>طرابلس</placeName></pubPlace>
+                     </imprint>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
@@ -6777,9 +6810,12 @@
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">النبراس</title>
+                     <ref target="BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_18.TEIP5.xml#p_7652.d2e53461"/>
                      <editor xml:lang="ar"> <persName xml:lang="ar"> <surname xml:lang="ar">الغلاييني</surname> <forename xml:lang="ar">مصطفى</forename> </persName> </editor>
                      <textLang mainLang="ar"/>
-                     <imprint/>
+                     <imprint>
+                        <pubPlace><placeName>Beirut</placeName></pubPlace>
+                     </imprint>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="fa" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
