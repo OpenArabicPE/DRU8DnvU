@@ -445,7 +445,8 @@
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
-                     <title level="j" xml:lang="ar">الحقوق</title>
+                     <title level="j" xml:lang="ar">الحقوق</title><ref target="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_17.TEIP5.xml#p_7529.d2e52323"></ref>
+                     <editor><persName>ميخائيل بن جرجس</persName></editor>
                      <title level="j" xml:lang="ar">مجلة حقوقية</title>
                      <editor xml:lang="ar"> <persName xml:lang="ar"> <surname xml:lang="ar">سليم بك المعوشي</surname> </persName> </editor>
                      <editor xml:lang="ar"> <persName xml:lang="ar"> <surname xml:lang="ar">ملحم بك خلف</surname> </persName> </editor>
