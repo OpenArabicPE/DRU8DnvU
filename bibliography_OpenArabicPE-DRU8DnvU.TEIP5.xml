@@ -3939,9 +3939,9 @@
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
-                     <title level="j" xml:lang="ar">الجريدة</title>
-                     <textLang mainLang="ar"/>
-                     <imprint/>
+                     <title level="j" xml:lang="ar">الجريدة</title><ref>Tarrazi:4:22</ref>
+                     <textLang mainLang="ar"/><editor><persName>حسني مصباح فتحله</persName></editor>
+                     <imprint><date from="1928-10-01"></date><pubPlace><placeName>Beirut</placeName></pubPlace></imprint>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
