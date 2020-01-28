@@ -3452,6 +3452,7 @@
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">العلم في القرن العشرين</title>
+                     <title level="j" xml:lang="ar">العلم في القرن ال عشرين</title>
                      <textLang mainLang="ar"/>
                      <imprint/>
                   </monogr>
@@ -6590,13 +6591,6 @@
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">نوابغ الرجال</title>
-                     <textLang mainLang="ar"/>
-                     <imprint/>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
-                  <monogr xml:lang="ar">
-                     <title level="j" xml:lang="ar">العلم في القرن ال عشرين</title>
                      <textLang mainLang="ar"/>
                      <imprint/>
                   </monogr>
