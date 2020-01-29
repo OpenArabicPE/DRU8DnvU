@@ -4440,8 +4440,10 @@
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">العمران</title>
+                     <ref>Tarrazi:4:180</ref>
+                     <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_1.TEIP5.xml#p_3279.d2e18971"><persName>عبد المسيح انطاكي</persName></editor>
                      <textLang mainLang="ar"/>
-                     <imprint/>
+                    <imprint><date from="1902-05-16"></date><pubPlace source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_1.TEIP5.xml#p_3279.d2e18971"><placeName>Cairo</placeName></pubPlace></imprint>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
