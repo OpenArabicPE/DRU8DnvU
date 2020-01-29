@@ -4405,8 +4405,11 @@
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">العروة</title>
+                     <ref>Tarrazi:4:374</ref>
+                     <editor source="BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_6.TEIP5.xml#p_3361.d2e43012"><persName>جمال الدين الافغاني</persName></editor>
+                     <editor source="BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_6.TEIP5.xml#p_4962.d2e62805"><persName>الشيخ محمد عبده</persName></editor>
                      <textLang mainLang="ar"/>
-                     <imprint/>
+                     <imprint><date from="1883-05-13"></date><pubPlace><placeName>Paris</placeName></pubPlace></imprint>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
