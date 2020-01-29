@@ -480,6 +480,13 @@
                      <item xml:lang="ar">status_complete</item>
                      </list> </note>
                </biblStruct>
+               <biblStruct xml:lang="ar">
+                  <monogr xml:lang="ar">
+                     <title level="j" xml:lang="ar">الأزهر</title>
+                     <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_6.TEIP5.xml#p_6564.d2e82875"><persName>محمد فريد وجدي</persName></editor>
+                     <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_7.TEIP5.xml#p_4460.d2e53365"><persName>مصطفى الدمياطي</persName></editor>
+                  </monogr>
+               </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">الحياة</title>
@@ -3695,9 +3702,12 @@
                      <title level="j" xml:lang="ar">الإنسانية</title>
                      <ref>Tarrazi:4:132</ref>
                      <title level="j" xml:lang="ar">مجلة علمية أخلاقية اجتماعية انتقادية عمرانية</title>
-                     <editor xml:lang="ar" source="BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_2.TEIP5.xml#p_4934.d2e42792"> <persName xml:lang="ar"> <surname xml:lang="ar">الشيخ حسن الرزق</surname> </persName> </editor>
+                     <editor source="BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_2.TEIP5.xml#p_4934.d2e42792" xml:lang="ar"> <persName xml:lang="ar"> <surname xml:lang="ar"
+                        >الشيخ حسن الرزق</surname> </persName> </editor>
                      <textLang mainLang="ar"/>
-                     <imprint source="BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_2.TEIP5.xml#p_4934.d2e42792"><pubPlace><placeName>Hama</placeName></pubPlace></imprint>
+                     <imprint source="BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_2.TEIP5.xml#p_4934.d2e42792">
+                        <pubPlace><placeName>Hama</placeName></pubPlace>
+                     </imprint>
                      <biblScope unit="page"/>
                   </monogr>
                </biblStruct>
@@ -4409,7 +4419,10 @@
                      <editor source="BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_6.TEIP5.xml#p_3361.d2e43012"><persName>جمال الدين الافغاني</persName></editor>
                      <editor source="BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_6.TEIP5.xml#p_4962.d2e62805"><persName>الشيخ محمد عبده</persName></editor>
                      <textLang mainLang="ar"/>
-                     <imprint><date from="1883-05-13"></date><pubPlace><placeName>Paris</placeName></pubPlace></imprint>
+                     <imprint>
+                        <date from="1883-05-13"/>
+                        <pubPlace><placeName>Paris</placeName></pubPlace>
+                     </imprint>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
@@ -4446,7 +4459,10 @@
                      <ref>Tarrazi:4:180</ref>
                      <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_1.TEIP5.xml#p_3279.d2e18971"><persName>عبد المسيح انطاكي</persName></editor>
                      <textLang mainLang="ar"/>
-                    <imprint><date from="1902-05-16"></date><pubPlace source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_1.TEIP5.xml#p_3279.d2e18971"><placeName>Cairo</placeName></pubPlace></imprint>
+                     <imprint>
+                        <date from="1902-05-16"/>
+                        <pubPlace source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_1.TEIP5.xml#p_3279.d2e18971"><placeName>Cairo</placeName></pubPlace>
+                     </imprint>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
@@ -4769,7 +4785,8 @@
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">المراقب</title>
-                     <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_2.TEIP5.xml#p_3064.d2e25525"><date>1908-1913</date><persName>جرجي بن شاهين عطية</persName></editor>
+                     <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_2.TEIP5.xml#p_3064.d2e25525"
+                        ><date>1908-1913</date><persName>جرجي بن شاهين عطية</persName></editor>
                      <textLang mainLang="ar"/>
                      <imprint/>
                   </monogr>
@@ -4977,7 +4994,9 @@
                      <title level="j" xml:lang="ar">النصير</title>
                      <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_4079.d2e33981"><persName>شبلي ملاط</persName></editor>
                      <textLang mainLang="ar"/>
-                     <imprint source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_4079.d2e33981"><pubPlace><placeName>Beirut</placeName></pubPlace></imprint>
+                     <imprint source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_4079.d2e33981">
+                        <pubPlace><placeName>Beirut</placeName></pubPlace>
+                     </imprint>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
