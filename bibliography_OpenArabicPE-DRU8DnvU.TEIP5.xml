@@ -2108,6 +2108,16 @@
                      <title level="m" xml:lang="">جواهر البلاغة</title>
                   </analytic>
                </biblStruct>
+               <biblStruct>
+                  <monogr>
+                     <title xml:lang="ar" level="j">البلاغ</title>
+                     <ref>Tarrazi:4:202</ref>
+                 <editor>عبد القادر حمزة</editor>
+                     <imprint><date from="1923-01-28"></date>
+                        <pubPlace><placeName>Cairo</placeName></pubPlace>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
                <biblStruct xml:lang="" xmlns:zot="https://zotero.org" zot:genre="book">
                   <analytic xml:lang="">
                      <title level="m" xml:lang="">حاشية</title>
