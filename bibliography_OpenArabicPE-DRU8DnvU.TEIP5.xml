@@ -3498,7 +3498,8 @@
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">إقدام</title>
                      <textLang mainLang="ar"/>
-                     <imprint/>
+                     <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_6834.d2e56280"><persName>الخليلي</persName></editor>
+                     <imprint><pubPlace source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_6834.d2e56280"><placeName>Teheran</placeName></pubPlace></imprint>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="en" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
