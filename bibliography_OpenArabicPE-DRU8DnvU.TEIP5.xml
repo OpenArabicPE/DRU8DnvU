@@ -4095,8 +4095,10 @@
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">الدستور</title>
+                     <ref>Tarrazi:4:188</ref>
                      <textLang mainLang="ar"/>
-                     <imprint/>
+                     <editor type = "publisher" source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_6.TEIP5.xml#p_6564.d2e82875"><persName>محمد فريد وجدي</persName></editor>
+                     <imprint><pubPlace><placeName>Cairo</placeName></pubPlace></imprint>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
