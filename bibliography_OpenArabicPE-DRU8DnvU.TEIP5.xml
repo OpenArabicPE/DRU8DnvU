@@ -4194,9 +4194,15 @@
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
-                     <title level="j" xml:lang="ar">الرابطة</title>
+                     <title level="j" xml:lang="ar">الرابطة السورية الوطنية</title>
                      <textLang mainLang="ar"/>
+                     <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_2.TEIP5.xml#p_7932.d2e72626"><persName>خليل سعادة</persName></editor>
                      <imprint/>
+                  </monogr>
+               </biblStruct>
+               <biblStruct>
+                  <monogr xml:lang="ar">
+                     <title level="j" xml:lang="ar">مجلة الرابطة العربية</title>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
