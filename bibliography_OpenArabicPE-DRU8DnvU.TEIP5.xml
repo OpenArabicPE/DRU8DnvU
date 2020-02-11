@@ -4394,7 +4394,12 @@
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">الظاهر</title>
-                     <textLang mainLang="ar"/>
+                     <ref>Tarrazi:4:168</ref>
+                     <textLang mainLang="ar"/> 
+                     <editor><persName>نصر الدين زغلول</persName></editor>
+                     <editor><persName>درويش مصطفى</persName></editor>
+                     <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_7.TEIP5.xml#p_207.d2e2654"><persName>محمد لطفي جمعة</persName></editor>
+                     <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_6.TEIP5.xml#p_4006.d2e51145"><persName>محمد كرد علي</persName></editor>                   
                      <imprint/>
                   </monogr>
                </biblStruct>
