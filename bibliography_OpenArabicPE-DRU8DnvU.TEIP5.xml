@@ -2110,10 +2110,11 @@
                </biblStruct>
                <biblStruct>
                   <monogr>
-                     <title xml:lang="ar" level="j">البلاغ</title>
+                     <title level="j" xml:lang="ar">البلاغ</title>
                      <ref>Tarrazi:4:202</ref>
-                 <editor>عبد القادر حمزة</editor>
-                     <imprint><date from="1923-01-28"></date>
+                     <editor>عبد القادر حمزة</editor>
+                     <imprint>
+                        <date from="1923-01-28"/>
                         <pubPlace><placeName>Cairo</placeName></pubPlace>
                      </imprint>
                   </monogr>
@@ -3509,7 +3510,9 @@
                      <title level="j" xml:lang="ar">إقدام</title>
                      <textLang mainLang="ar"/>
                      <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_6834.d2e56280"><persName>الخليلي</persName></editor>
-                     <imprint><pubPlace source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_6834.d2e56280"><placeName>Teheran</placeName></pubPlace></imprint>
+                     <imprint>
+                        <pubPlace source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_6834.d2e56280"><placeName>Teheran</placeName></pubPlace>
+                     </imprint>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="en" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
@@ -3695,7 +3698,7 @@
                      <editor source="/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_2657.d2e21201"> <persName xml:lang="ar">سعيد عقل</persName> </editor>
                      <textLang mainLang="ar"/>
                      <imprint>
-                        <date from="1913-05-10"></date>
+                        <date from="1913-05-10"/>
                         <pubPlace> <placeName xml:lang="en">Beirut</placeName> </pubPlace>
                      </imprint>
                   </monogr>
@@ -4097,8 +4100,10 @@
                <biblStruct>
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">المنبر</title>
-           <editor type = "owner"  source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_17.TEIP5.xml#p_7534.d2e52361"><persName>احمد افندي حافظ </persName></editor>
-                 <editor type = "publisher" source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_5.TEIP5.xml#p_383.d2e4822"><persName>علي ناصر الدين</persName></editor>
+                     <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_17.TEIP5.xml#p_7534.d2e52361" type="owner"
+                        ><persName>احمد افندي حافظ </persName></editor>
+                     <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_5.TEIP5.xml#p_383.d2e4822" type="publisher"
+                        ><persName>علي ناصر الدين</persName></editor>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
@@ -4106,8 +4111,11 @@
                      <title level="j" xml:lang="ar">الدستور</title>
                      <ref>Tarrazi:4:188</ref>
                      <textLang mainLang="ar"/>
-                     <editor type = "publisher" source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_6.TEIP5.xml#p_6564.d2e82875"><persName>محمد فريد وجدي</persName></editor>
-                     <imprint><pubPlace><placeName>Cairo</placeName></pubPlace></imprint>
+                     <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_6.TEIP5.xml#p_6564.d2e82875" type="publisher"
+                        ><persName>محمد فريد وجدي</persName></editor>
+                     <imprint>
+                        <pubPlace><placeName>Cairo</placeName></pubPlace>
+                     </imprint>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
@@ -4395,11 +4403,11 @@
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">الظاهر</title>
                      <ref>Tarrazi:4:168</ref>
-                     <textLang mainLang="ar"/> 
+                     <textLang mainLang="ar"/>
                      <editor><persName>نصر الدين زغلول</persName></editor>
                      <editor><persName>درويش مصطفى</persName></editor>
                      <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_7.TEIP5.xml#p_207.d2e2654"><persName>محمد لطفي جمعة</persName></editor>
-                     <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_6.TEIP5.xml#p_4006.d2e51145"><persName>محمد كرد علي</persName></editor>                   
+                     <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_6.TEIP5.xml#p_4006.d2e51145"><persName>محمد كرد علي</persName></editor>
                      <imprint/>
                   </monogr>
                </biblStruct>
@@ -5151,8 +5159,12 @@
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">بيروت</title>
+                     <ref>Tarrazi:4:6</ref>
+                     <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_6.TEIP5.xml#p_2419.d2e31752"><persName>محمد رشيد الدنا</persName></editor>
                      <textLang mainLang="ar"/>
-                     <imprint/>
+                     <imprint><pubPlace><placeName>Beirut</placeName></pubPlace>
+                     <date from="1886-05-22"></date>
+                     </imprint>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
@@ -5262,13 +5274,6 @@
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">جريدة الظاهر</title>
-                     <textLang mainLang="ar"/>
-                     <imprint/>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
-                  <monogr xml:lang="ar">
-                     <title level="j" xml:lang="ar">جريدة بيروت</title>
                      <textLang mainLang="ar"/>
                      <imprint/>
                   </monogr>
