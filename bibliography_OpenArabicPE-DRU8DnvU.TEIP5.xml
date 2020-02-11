@@ -3689,11 +3689,13 @@
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">الإصلاح</title>
+                     <ref>Tarrazi:4:14</ref>
                      <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_1.TEIP5.xml#p_2083.d2e23134"> <persName xml:lang="ar">أحمد حسن طبارة</persName> </editor>
                      <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_2.TEIP5.xml#p_357.d2e3274"> <persName xml:lang="ar">أمين ناصر الدين</persName> </editor>
                      <editor source="/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_2657.d2e21201"> <persName xml:lang="ar">سعيد عقل</persName> </editor>
                      <textLang mainLang="ar"/>
                      <imprint>
+                        <date from="1913-05-10"></date>
                         <pubPlace> <placeName xml:lang="en">Beirut</placeName> </pubPlace>
                      </imprint>
                   </monogr>

@@ -33333,10 +33333,10 @@
                </div>
                <div subtype="entry" type="item">
                   <head>حرف العين</head>
-                  <note place="inline" type="bibliographic"> <ref target="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_17.TEIP5.xml#p_7534.d2e52361"> <bibl> <author
-                     ref="http://viaf.org/viaf/49375370" xml:id="author_2.d2e72"> <persName xml:id="persName_3.d2e74" xml:lang="ar"> <forename xml:id="forename_3.d2e76">يوسف</forename> بن <forename
-                     xml:id="forename_4.d2e79">اليان</forename> <surname xml:id="surname_2.d2e82">سركيس</surname> </persName> </author>, , , <biblScope from="1391" to="1393" unit="page"
-                     >1391-1393</biblScope> </bibl> </ref> </note>
+                  <note place="inline" type="bibliographic"> <ref source="BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_17.TEIP5.xml#p_7534.d2e52361"
+                     target="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_17.TEIP5.xml#p_7534.d2e52361"> <bibl> <author ref="http://viaf.org/viaf/49375370"
+                     xml:id="author_2.d2e72"> <persName xml:id="persName_3.d2e74" xml:lang="ar"> <forename xml:id="forename_3.d2e76">يوسف</forename> بن <forename xml:id="forename_4.d2e79"
+                     >اليان</forename> <surname xml:id="surname_2.d2e82">سركيس</surname> </persName> </author>, , , <biblScope from="1391" to="1393" unit="page">1391-1393</biblScope> </bibl> </ref> </note>
                   <gap/>
                   <p xmlns:xi="http://www.w3.org/2001/XInclude">تاريخية الغرض منها التنويه بقدر الكرام وفلاح مساعيهم وخذل اللئام وابطال أمانيهم - <choice>
                      <abbr>مط</abbr>
