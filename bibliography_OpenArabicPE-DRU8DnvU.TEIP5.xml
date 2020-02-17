@@ -4524,6 +4524,19 @@
                      <imprint/>
                   </monogr>
                </biblStruct>
+               <biblStruct>
+                  <monogr xml:lang="ar">
+                     <title level="j">البصير</title>
+                     <ref>Tarrazi:4:221</ref>
+                     <editor><persName>رشيد شمييل</persName></editor>
+                     <editor><persName>سبع شمييل</persName></editor>
+                     <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_5808.d2e47344"><persName>طانيوس عبده</persName></editor>
+                <imprint>
+                   <date from="1897-09-01" to="194"></date>
+                   <pubPlace><placeName>Alexandria</placeName></pubPlace>
+                </imprint>
+                  </monogr>
+               </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">العهد</title>
