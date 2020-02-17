@@ -4069,6 +4069,12 @@
                      <imprint/>
                   </monogr>
                </biblStruct>
+               <biblStruct xml:lang="ar">
+                  <monogr xml:lang="ar">
+                     <title level="j">الآداب</title>
+                     <editor type = "publisher" source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_7.TEIP5.xml#p_1517.d2e21112"><persName>محمد مسعود</persName></editor>
+                  </monogr>
+               </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">الحياة</title>
