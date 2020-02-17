@@ -4316,8 +4316,13 @@
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">الشام</title>
+                     <ref>Tarrazi:4:43</ref>
+                     <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_1.TEIP5.xml#p_5657.d2e66880"><persName>اديب نظمي</persName></editor>
+                   <editor><persName>مصطفى واصف</persName></editor>
                      <textLang mainLang="ar"/>
-                     <imprint/>
+                   <imprint><pubPlace source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_1.TEIP5.xml#p_5657.d2e66880"><placeName>Damascus</placeName></pubPlace>
+                   <date from="1896-07-22"></date>
+                   </imprint>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
@@ -7059,8 +7064,8 @@
                      <title level="j" xml:lang="ar">الهداية</title>
                      <title level="j" xml:lang="ar">مجلة دينية علمية أدبية اجتماعية</title>
                      <editor xml:lang="ar"> <persName xml:lang="ar"> <surname xml:lang="ar">الشيخ عبد العزيز جاويش</surname> </persName> </editor>
-                     <editor type = "publisher" source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_6161.d2e50639">طه الراوي</editor>
-                 <editor type = "publisher" source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_6.TEIP5.xml#p_4869.d2e61765">ابن عون</editor>
+                     <editor type = "publisher" source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_6161.d2e50639"><persName>طه الراوي</persName></editor>
+                 <editor type = "publisher" source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_6.TEIP5.xml#p_4869.d2e61765"><persName>ابن عون</persName></editor>
                      <textLang mainLang="ar"/>
                      <imprint><pubPlace source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_6161.d2e50639"><placeName>Baghdad</placeName></pubPlace></imprint>
                      <biblScope from="1" to="72" unit="page"/>
