@@ -5162,8 +5162,9 @@
                      <ref>Tarrazi:4:6</ref>
                      <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_6.TEIP5.xml#p_2419.d2e31752"><persName>محمد رشيد الدنا</persName></editor>
                      <textLang mainLang="ar"/>
-                     <imprint><pubPlace><placeName>Beirut</placeName></pubPlace>
-                     <date from="1886-05-22"></date>
+                     <imprint>
+                        <pubPlace><placeName>Beirut</placeName></pubPlace>
+                        <date from="1886-05-22"/>
                      </imprint>
                   </monogr>
                </biblStruct>
@@ -7058,8 +7059,10 @@
                      <title level="j" xml:lang="ar">الهداية</title>
                      <title level="j" xml:lang="ar">مجلة دينية علمية أدبية اجتماعية</title>
                      <editor xml:lang="ar"> <persName xml:lang="ar"> <surname xml:lang="ar">الشيخ عبد العزيز جاويش</surname> </persName> </editor>
+                     <editor type = "publisher" source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_6161.d2e50639">طه الراوي</editor>
+                 <editor type = "publisher" source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_6.TEIP5.xml#p_4869.d2e61765">ابن عون</editor>
                      <textLang mainLang="ar"/>
-                     <imprint/>
+                     <imprint><pubPlace source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_6161.d2e50639"><placeName>Baghdad</placeName></pubPlace></imprint>
                      <biblScope from="1" to="72" unit="page"/>
                   </monogr>
                </biblStruct>
