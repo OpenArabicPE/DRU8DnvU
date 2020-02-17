@@ -4522,7 +4522,7 @@
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">العهد</title>
                      <textLang mainLang="ar"/>
-                     <imprint/>
+                     <imprint><pubPlace source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_7.TEIP5.xml#p_1459.d2e20369"><placeName>Rabat</placeName></pubPlace></imprint>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
