@@ -5969,10 +5969,13 @@
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
-                  <monogr xml:lang="ar">
+                  <monogr xml:lang="ar"><ref>Tarrazi:4:293</ref>
                      <title level="j" xml:lang="ar">مسامرات الشعب</title>
                      <textLang mainLang="ar"/>
-                     <imprint/>
+                     <editor type = "publisher" source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_2.TEIP5.xml#p_7953.d2e72908"><persName>خليل صادق</persName></editor>
+                  <imprint><pubPlace><placeName>Alexandria</placeName></pubPlace>
+                 <date from="1904-01-01"></date>
+                  </imprint>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
