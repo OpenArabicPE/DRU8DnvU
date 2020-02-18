@@ -4072,7 +4072,7 @@
                <biblStruct xml:lang="ar">
                   <monogr xml:lang="ar">
                      <title level="j">الآداب</title>
-                     <editor type = "publisher" source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_7.TEIP5.xml#p_1517.d2e21112"><persName>محمد مسعود</persName></editor>
+                     <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_7.TEIP5.xml#p_1517.d2e21112" type="publisher"><persName>محمد مسعود</persName></editor>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
@@ -4260,7 +4260,9 @@
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">الزهرة</title>
                      <textLang mainLang="ar"/>
-                     <imprint/>
+                     <editor type = "publisher" source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_12.TEIP5.xml#"><persName>يوسف بن فارس بن يوسف الخوري الشلفون</persName></editor>
+                     <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_7.TEIP5.xml#p_3247.d2e43104"><persName>محيي الدين القُليبي</persName></editor>
+                     <imprint><pubPlace source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_12.TEIP5.xml#"><placeName>Beirut</placeName></pubPlace></imprint>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
@@ -4324,11 +4326,12 @@
                      <title level="j" xml:lang="ar">الشام</title>
                      <ref>Tarrazi:4:43</ref>
                      <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_1.TEIP5.xml#p_5657.d2e66880"><persName>اديب نظمي</persName></editor>
-                   <editor><persName>مصطفى واصف</persName></editor>
+                     <editor><persName>مصطفى واصف</persName></editor>
                      <textLang mainLang="ar"/>
-                   <imprint><pubPlace source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_1.TEIP5.xml#p_5657.d2e66880"><placeName>Damascus</placeName></pubPlace>
-                   <date from="1896-07-22"></date>
-                   </imprint>
+                     <imprint>
+                        <pubPlace source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_1.TEIP5.xml#p_5657.d2e66880"><placeName>Damascus</placeName></pubPlace>
+                        <date from="1896-07-22"/>
+                     </imprint>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
@@ -4531,17 +4534,19 @@
                      <editor><persName>رشيد شمييل</persName></editor>
                      <editor><persName>سبع شمييل</persName></editor>
                      <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_5808.d2e47344"><persName>طانيوس عبده</persName></editor>
-                <imprint>
-                   <date from="1897-09-01" to="194"></date>
-                   <pubPlace><placeName>Alexandria</placeName></pubPlace>
-                </imprint>
+                     <imprint>
+                        <date from="1897-09-01" to="194"/>
+                        <pubPlace><placeName>Alexandria</placeName></pubPlace>
+                     </imprint>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">العهد</title>
                      <textLang mainLang="ar"/>
-                     <imprint><pubPlace source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_7.TEIP5.xml#p_1459.d2e20369"><placeName>Rabat</placeName></pubPlace></imprint>
+                     <imprint>
+                        <pubPlace source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_7.TEIP5.xml#p_1459.d2e20369"><placeName>Rabat</placeName></pubPlace>
+                     </imprint>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
@@ -7083,10 +7088,12 @@
                      <title level="j" xml:lang="ar">الهداية</title>
                      <title level="j" xml:lang="ar">مجلة دينية علمية أدبية اجتماعية</title>
                      <editor xml:lang="ar"> <persName xml:lang="ar"> <surname xml:lang="ar">الشيخ عبد العزيز جاويش</surname> </persName> </editor>
-                     <editor type = "publisher" source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_6161.d2e50639"><persName>طه الراوي</persName></editor>
-                 <editor type = "publisher" source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_6.TEIP5.xml#p_4869.d2e61765"><persName>ابن عون</persName></editor>
+                     <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_6161.d2e50639" type="publisher"><persName>طه الراوي</persName></editor>
+                     <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_6.TEIP5.xml#p_4869.d2e61765" type="publisher"><persName>ابن عون</persName></editor>
                      <textLang mainLang="ar"/>
-                     <imprint><pubPlace source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_6161.d2e50639"><placeName>Baghdad</placeName></pubPlace></imprint>
+                     <imprint>
+                        <pubPlace source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_6161.d2e50639"><placeName>Baghdad</placeName></pubPlace>
+                     </imprint>
                      <biblScope from="1" to="72" unit="page"/>
                   </monogr>
                </biblStruct>
