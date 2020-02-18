@@ -4265,6 +4265,18 @@
                      <imprint><pubPlace source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_12.TEIP5.xml#"><placeName>Beirut</placeName></pubPlace></imprint>
                   </monogr>
                </biblStruct>
+               <biblStruct>
+                  <monogr xml:lang="ar">
+                     <title xml:lang="ar">اللطائف</title>
+                     <ref>Tarrazi:4:217</ref>
+                     <editor><persName>عبد الله نديم</persName></editor>
+                     <editor type = "publisher" source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_4023.d2e33479"><persName>شاهين بن مكاريوس</persName></editor>
+                  <imprint>
+                     <pubPlace><placeName>Alexandria</placeName></pubPlace>
+                     <date from="1881-07-10" to="1882"></date>
+                  </imprint>
+                  </monogr>
+               </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">السائح</title>
