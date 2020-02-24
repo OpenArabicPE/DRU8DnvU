@@ -4847,6 +4847,7 @@
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">المحيط</title>
                      <textLang mainLang="ar"/>
+                     <editor type = "owner" source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_17.TEIP5.xml#p_7535.d2e52394"><persName>عوض افندي واصف</persName></editor>
                      <imprint/>
                   </monogr>
                </biblStruct>
