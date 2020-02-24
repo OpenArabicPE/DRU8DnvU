@@ -4028,8 +4028,12 @@
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">الحارس</title>
+                     <ref>Tarrazi:4:13</ref>
                      <textLang mainLang="ar"/>
-                     <imprint/>
+                     <editor type = "owner" source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_18.TEIP5.xml#p_7593.d2e52891" source =  "file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_2.TEIP5.xml#p_399.d2e3953"><persName>امين الغريب</persName></editor>
+                     <imprint><pubPlace><placeName>Beirut</placeName></pubPlace>
+                    <date from="1910-11-02"></date>
+                     </imprint>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
