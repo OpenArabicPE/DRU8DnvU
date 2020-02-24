@@ -522,10 +522,12 @@
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">الرياض</title>
-                     <editor xml:lang="ar"> <persName xml:lang="ar"> <surname xml:lang="ar">الدخيل</surname> <forename xml:lang="ar">سليمان</forename> </persName> </editor>
+                     <ref>Tarrazi:4:77</ref>
+                     <editor xml:lang="ar" source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_3.TEIP5.xml#p_3320.d2e27480"> <persName xml:lang="ar"> <surname xml:lang="ar">الدخيل</surname> <forename xml:lang="ar">سليمان</forename> </persName> </editor>
                      <textLang mainLang="ar"/>
                      <imprint>
-                        <date when="1910"/>
+                        <date when="1910-01-07"/>
+                        <pubPlace><placeName>Baghdad</placeName></pubPlace>
                      </imprint>
                      <biblScope from="1" to="1" unit="volume"/>
                      <biblScope from="1" to="1" unit="issue"/>
