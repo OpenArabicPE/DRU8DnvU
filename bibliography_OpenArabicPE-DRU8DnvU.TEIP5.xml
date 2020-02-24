@@ -673,12 +673,17 @@
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">الوطن</title>
+                     <ref>Tarrazi:4:163</ref>
                      <editor xml:lang="ar"> <persName xml:lang="ar"> <surname xml:lang="ar">ملاط</surname> <forename xml:lang="ar">شبلي</forename> </persName> </editor>
                      <editor xml:lang="ar"> <persName xml:lang="ar"> <surname xml:lang="ar">شوشاني</surname> <forename xml:lang="ar">نجيب</forename> </persName> </editor>
                      <editor xml:lang="ar"> <persName xml:lang="ar"> <surname xml:lang="ar">فارس</surname> <forename xml:lang="ar">فيليكس</forename> </persName> </editor>
+                    <editor type = "owner" source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_23.TEIP5.xml#p_9433.d2e68311"><persName>ميخائيل افندي عبد السيد</persName></editor>
+                 <editor type = "owner" source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_2.TEIP5.xml#p_2450.d2e19820"><persName>جندي ابراهيم</persName></editor>
+           <editor type = "publisher" source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_2.TEIP5.xml#p_5098.d2e44905"><persName>حسن بن علوي بن شهاد الدين</persName></editor>
                      <textLang mainLang="ar"/>
                      <imprint>
-                        <date when="1908"/>
+                        <date when="1908" from="1877" to="1929"/>
+                        <pubPlace><placeName>Cairo</placeName></pubPlace>
                      </imprint>
                      <biblScope from="1" to="1" unit="volume"/>
                      <biblScope from="1" to="1" unit="issue"/>
