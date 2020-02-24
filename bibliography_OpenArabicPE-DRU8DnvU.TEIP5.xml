@@ -6816,6 +6816,8 @@
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">الكرمل</title>
                      <textLang mainLang="ar"/>
+                     <editor type = "owner" source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_6.TEIP5.xml#p_5109.d2e32351"><persName>نجيب أفندي </persName></editor>
+                     <editor type = "publisher" source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_6.TEIP5.xml#p_5110.d2e32366"><persName>حافظ صدقي</persName></editor>
                      <imprint>
                         <date when="1905"/>
                      </imprint>
