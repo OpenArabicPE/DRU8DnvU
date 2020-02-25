@@ -3726,6 +3726,17 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <biblStruct>
+                  <monogr xml:lang="ar">
+                     <ref>Tarrazi:4:217</ref>
+                     <title level="j" xml:lang="ar">الاعتدال</title>
+                     <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_2.TEIP5.xml#p_6913.d2e64170"><persName>حمزه فتح الله</persName></editor>
+                <imprint>
+                   <pubPlace><placeName>ِAlexandria</placeName></pubPlace>
+                   <date>1882-07-31</date>
+                </imprint>
+                  </monogr>
+               </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">الإنسانية</title>
