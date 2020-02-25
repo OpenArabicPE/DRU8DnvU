@@ -3717,8 +3717,13 @@
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">الإقبال</title>
+                     <ref>Tarrazi:4:9</ref>
                      <textLang mainLang="ar"/>
-                     <imprint/>
+                     <editor><persName>عبد الباصيط الأونسي</persName></editor>
+                     <imprint>
+                        <pubPlace><placeName>Beirut</placeName></pubPlace>
+                        <date from="1902-04-09"></date>
+                     </imprint>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
