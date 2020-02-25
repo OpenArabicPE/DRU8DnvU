@@ -699,6 +699,7 @@
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">طبيب العائلة</title>
                      <textLang mainLang="ar"/>
+                     <editor type = "publisher" source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_2.TEIP5.xml#p_124.d2e840"><persName>ألفايد بن حنا عيد</persName></editor>
                      <imprint/>
                      <biblScope from="1" to="1" unit="volume"/>
                      <biblScope from="1" to="1" unit="issue"/>
