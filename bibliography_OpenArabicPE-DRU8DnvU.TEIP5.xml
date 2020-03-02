@@ -782,6 +782,17 @@
                      <item xml:lang="ar">status_complete</item>
                      </list> </note>
                </biblStruct>
+               <biblStruct>
+                  <monogr xml:lang="ar">
+                     <title level="j" xml:lang="ar">الميزان</title>
+                     <ref>Tarrazi:4:48</ref>
+                     <editor><persName>احمد شاكر الكرمي</persName></editor>
+                     <imprint>
+                        <pubPlace><placeName>Damaskus</placeName></pubPlace>
+                        <date from="1925-01-20"></date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
                <biblStruct xml:lang="" xmlns:zot="https://zotero.org" zot:genre="book">
                   <analytic xml:lang="">
                      <title level="m" xml:lang="">القانون الأساسي</title>
