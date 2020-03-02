@@ -595,6 +595,7 @@
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">العرب</title>
                      <textLang mainLang="ar"/>
+                     <editor type = "owner"  source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_165855925/tei/oclc_165855925-v_6.TEIP5.xml#p_2093.d2e27673"><persName>حمد الجاسر</persName></editor>
                      <imprint/>
                      <biblScope from="1" to="1" unit="volume"/>
                      <biblScope from="1" to="1" unit="issue"/>
