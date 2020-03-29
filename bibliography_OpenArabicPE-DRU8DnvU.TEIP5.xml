@@ -729,13 +729,19 @@
                      <textLang mainLang="ar"/>
                      <editor source="file:/BachUni/BachBibliothek/GitHub/TEI/oclc_618896732/tei/oclc_618896732-div_7.TEIP5.xml#p_5149.d2e32656"> <persName xml:lang="ar">داغر اسعد </persName> </editor>
                      <imprint>
-                        <pubPlace><placeName xml:lang="en">Alexandria</placeName></pubPlace>
-                        <date when="1876-08-05"/>
+                       <pubPlace><placeName xml:lang="en">Alexandria</placeName></pubPlace>
+                        <date calendar="#cal_gregorian" from="1876-08-05" to="1898">1876</date>
+                        <date calendar="#cal_islamic" datingMethod="#cal_islamic" when-custom="1293-07-14" from="1876-08-05" to="1898">1293</date>
                      </imprint>
+                     <biblScope unit="volume" from="1"/>
+                     <biblScope unit="issue" from="1"/>
+                     <biblScope unit="page" from="1" to="4"/>
                   </monogr>
-                  <note type="tagList" xml:lang="ar"> <list xml:lang="ar">
+                  <note type="tagList" xml:lang="ar"> <list xml:lang="en">
                      <item xml:lang="en">record_primary</item>
                      <item xml:lang="en">status_complete</item>
+                     <item xml:lang="en">frequency_weekly</item>
+                     <item xml:lang="en">days_friday</item>
                      </list> </note>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
