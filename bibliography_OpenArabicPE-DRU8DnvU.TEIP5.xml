@@ -4,7 +4,7 @@
 <?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-stylesheet type="text/xsl" href="https://openarabicpe.github.io/tei-boilerplate-arabic-editions/boilerplate/xslt/teibp_parameters.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -20,7 +20,7 @@
    </teiHeader>
    <text>
       <body>
-         <div>
+         <div type="section">
             <listBibl>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
@@ -7275,9 +7275,13 @@
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">العروس</title>
                      <title level="j" xml:lang="ar">مجلة نسائية علمية أدبية صحية</title>
-                     <editor xml:lang="ar"> <persName xml:lang="ar"> <surname xml:lang="ar">الآنسة ماري عجمي</surname> </persName> </editor>
+                     <editor xml:lang="ar"> <persName xml:lang="ar">الآنسة <forename>ماري</forename> <surname xml:lang="ar">عجمي</surname></persName> </editor>
                      <textLang mainLang="ar"/>
-                     <imprint/>
+                     <imprint>
+                        <pubPlace xml:lang="ar">
+                            <placeName ref="geon:170654" xml:lang="ar">دمشق</placeName>
+                         </pubPlace>
+                     </imprint>
                   </monogr>
                </biblStruct>
             </listBibl>
